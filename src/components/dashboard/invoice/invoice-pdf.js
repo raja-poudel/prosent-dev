@@ -97,7 +97,7 @@ export const InvoicePDF = (props) => {
         <View style={styles.header}>
           <View>
             <Image
-              source="/static/logo.jpg"
+              source="/assests/logo.jpg"
               style={styles.brand}
             />
             <Text style={styles.h6}>

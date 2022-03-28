@@ -85,7 +85,7 @@ export const FileDropzone = (props) => {
         >
           <img
             alt="Select file"
-            src="/static/undraw_add_file2_gvbb.svg"
+            src="/assests/undraw_add_file2_gvbb.svg"
           />
         </Box>
         <Box sx={{ p: 2 }}>

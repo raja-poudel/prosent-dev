@@ -24,9 +24,9 @@ import { NotificationsPopover } from './notifications-popover';
 import { LanguagePopover } from './language-popover';
 
 const languages = {
-  en: '/static/icons/uk_flag.svg',
-  de: '/static/icons/de_flag.svg',
-  es: '/static/icons/es_flag.svg'
+  en: '/assests/icons/uk_flag.svg',
+  de: '/assests/icons/de_flag.svg',
+  es: '/assests/icons/es_flag.svg'
 };
 
 const DashboardNavbarRoot = styled(AppBar)(({ theme }) => ({
@@ -201,7 +201,7 @@ const AccountButton = () => {
   // To get the user from the authContext, you can use
   // `const { user } = useAuth();`
   const user = {
-    avatar: '/static/mock-images/avatars/avatar-anika_visser.png',
+    avatar: '/assests/mock-images/avatars/avatar-anika_visser.png',
     name: 'Anika Visser'
   };
 

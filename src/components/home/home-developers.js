@@ -82,7 +82,7 @@ export const HomeDevelopers = (props) => {
             >
               <img
                 alt="For developers"
-                src={`/static/home/developers_${theme.palette.mode}.png`}
+                src={`/assests/home/developers_${theme.palette.mode}.png`}
               />
             </Box>
           </Grid>

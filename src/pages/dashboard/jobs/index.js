@@ -118,7 +118,7 @@ const JobBrowse = () => {
             >
               <img
                 alt=""
-                src="/static/mock-images/jobs/job_browse_header.svg"
+                src="/assests/mock-images/jobs/job_browse_header.svg"
               />
             </Grid>
           </Grid>

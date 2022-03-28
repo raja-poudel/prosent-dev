@@ -14,10 +14,10 @@ import { useAuth } from '../../hooks/use-auth';
 import { gtm } from '../../lib/gtm';
 
 const platformIcons = {
-  Amplify: '/static/icons/amplify.svg',
-  Auth0: '/static/icons/auth0.svg',
-  Firebase: '/static/icons/firebase.svg',
-  JWT: '/static/icons/jwt.svg'
+  Amplify: '/assests/icons/amplify.svg',
+  Auth0: '/assests/icons/auth0.svg',
+  Firebase: '/assests/icons/firebase.svg',
+  JWT: '/assests/icons/jwt.svg'
 };
 
 const Login = () => {
